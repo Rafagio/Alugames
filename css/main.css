@@ -45,15 +45,22 @@
 }
 
 .page-title {
+    text-align: center;
     font-family: 'Chakra Petch', sans-serif;
     font-weight: 700;
-    font-size: 5rem;
+    font-size: 6rem;
 
     margin-bottom: 2.5rem;
 }
 
 .page-title__emphasis {
-    color: #505EFF;
+    
+    color: #3ba83d;
+}
+.jogos__tabu{
+    color:darkblue;
+
+
 }
 
 .dashboard {
